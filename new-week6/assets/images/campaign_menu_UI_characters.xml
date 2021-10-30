@@ -114,20 +114,20 @@
 	<SubTexture name="Parent Christmas Idle Black Lines0011" x="3524" y="2274" width="865" height="782" frameX="-19" frameY="0" frameWidth="884" frameHeight="782"/>
 	<SubTexture name="Parent Christmas Idle Black Lines0012" x="3524" y="2274" width="865" height="782" frameX="-19" frameY="0" frameWidth="884" frameHeight="782"/>
 	<SubTexture name="Parent Christmas Idle Black Lines0013" x="3524" y="2274" width="865" height="782" frameX="-19" frameY="0" frameWidth="884" frameHeight="782"/>
-	<SubTexture name="Pico Idle Dance0000" x="4399" y="2274" width="435" height="461" frameX="-18" frameY="-13" frameWidth="453" frameHeight="475"/>
-	<SubTexture name="Pico Idle Dance0001" x="4399" y="2274" width="435" height="461" frameX="-18" frameY="-13" frameWidth="453" frameHeight="475"/>
-	<SubTexture name="Pico Idle Dance0002" x="4844" y="2274" width="442" height="468" frameX="-11" frameY="-6" frameWidth="453" frameHeight="475"/>
-	<SubTexture name="Pico Idle Dance0003" x="4844" y="2274" width="442" height="468" frameX="-11" frameY="-6" frameWidth="453" frameHeight="475"/>
-	<SubTexture name="Pico Idle Dance0004" x="5296" y="2274" width="448" height="469" frameX="-1" frameY="-6" frameWidth="453" frameHeight="475"/>
-	<SubTexture name="Pico Idle Dance0005" x="5754" y="2274" width="444" height="469" frameX="-1" frameY="-6" frameWidth="453" frameHeight="475"/>
-	<SubTexture name="Pico Idle Dance0006" x="6208" y="2274" width="444" height="474" frameX="-1" frameY="-1" frameWidth="453" frameHeight="475"/>
-	<SubTexture name="Pico Idle Dance0007" x="6662" y="2274" width="442" height="474" frameX="-1" frameY="-1" frameWidth="453" frameHeight="475"/>
-	<SubTexture name="Pico Idle Dance0008" x="7114" y="2274" width="443" height="475" frameX="0" frameY="0" frameWidth="453" frameHeight="475"/>
-	<SubTexture name="Pico Idle Dance0009" x="7114" y="2274" width="443" height="475" frameX="0" frameY="0" frameWidth="453" frameHeight="475"/>
-	<SubTexture name="Pico Idle Dance0010" x="7114" y="2274" width="443" height="475" frameX="0" frameY="0" frameWidth="453" frameHeight="475"/>
-	<SubTexture name="Pico Idle Dance0011" x="7114" y="2274" width="443" height="475" frameX="0" frameY="0" frameWidth="453" frameHeight="475"/>
-	<SubTexture name="Pico Idle Dance0012" x="7114" y="2274" width="443" height="475" frameX="0" frameY="0" frameWidth="453" frameHeight="475"/>
-	<SubTexture name="Pico Idle Dance0013" x="7114" y="2274" width="443" height="475" frameX="0" frameY="0" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="Pico Idle Dance0000" x="4263" y="2971" width="432" height="473" frameX="-1" frameY="-1" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="Pico Idle Dance0001" x="4700" y="2971" width="430" height="481" frameX="-1" frameY="-1" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="Pico Idle Dance0002" x="5139" y="2971" width="431" height="481" frameX="-1" frameY="-1" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="Pico Idle Dance0003" x="5139" y="2971" width="431" height="481" frameX="-1" frameY="-1" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="Pico Idle Dance0004" x="5574" y="2971" width="434" height="481" frameX="-1" frameY="-1" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="Pico Idle Dance0005" x="6014" y="2971" width="433" height="486" frameX="-1" frameY="-1" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="Pico Idle Dance0006" x="6449" y="2971" width="433" height="486" frameX="-1" frameY="-1" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="Pico Idle Dance0007" x="6886" y="2971" width="433" height="487" frameX="-1" frameY="-1" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="Pico Idle Dance0008" x="7322" y="2971" width="433" height="487" frameX="0" frameY="0" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="Pico Idle Dance0009" x="7759" y="2971" width="433" height="487" frameX="0" frameY="0" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="Pico Idle Dance0010" x="7322" y="2971" width="433" height="487" frameX="0" frameY="0" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="Pico Idle Dance0011" x="7322" y="2971" width="433" height="487" frameX="0" frameY="0" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="Pico Idle Dance0012" x="7322" y="2971" width="433" height="487" frameX="0" frameY="0" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="Pico Idle Dance0013" x="7322" y="2971" width="433" height="487" frameX="0" frameY="0" frameWidth="453" frameHeight="475"/>
 	<SubTexture name="SENPAI idle Black Lines0000" x="7567" y="2274" width="336" height="288"/>
 	<SubTexture name="SENPAI idle Black Lines0001" x="7567" y="2274" width="336" height="288"/>
 	<SubTexture name="SENPAI idle Black Lines0002" x="0" y="3066" width="336" height="288"/>
