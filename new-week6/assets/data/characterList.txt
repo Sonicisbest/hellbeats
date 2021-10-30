@@ -3,6 +3,8 @@ dad
 gf
 spooky
 pico
+pico-og
+pico-glow
 mom
 mom-car
 bf-car
